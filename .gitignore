@@ -155,4 +155,4 @@ __pycache__/
 *.pyc
 venv/
 .env
-.docker/
+.docker/".env" 

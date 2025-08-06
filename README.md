@@ -2,6 +2,10 @@
 
 **Smart Intelligence** is an AI-powered system (agentic ai) that leverages Strava activity data to deliver personalized, and data-driven feedback for athletes. Designed for runners, cyclists, and swimmers, this project combines state-of-the-art retrieval augmented generation (RAG), vector search, and automated email reporting to help users unlock their full athletic potential.
 
+**Final output as a mail to the use**
+<img width="1626" height="833" alt="image" src="https://github.com/user-attachments/assets/d5608da2-0255-4eea-ad7e-8dabde1d0d58" />
+
+
 ## Features
 
 - **Strava Data Integration:** Seamlessly fetches and preprocesses your Strava activities for deep analysis.
@@ -46,3 +50,4 @@ pip install -r [requirements.txt](http://_vscodecontentref_/0)
 add credentials in .env
 python data.py
 python main.py
+

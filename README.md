@@ -38,7 +38,7 @@
 ## How It Works
 
 1. **Connect your Strava account** use the credentials and fetch recent activities.
-2. **Analyze your data** using RAG tools and transformer models.
+2. **Analyze your data** using RAG tools and llms.
 3. **Receive detailed feedback** and improvement plans via email.
 4. **Track your progress** with agentic memory and historical trend analysis.
 
@@ -50,6 +50,7 @@ pip install -r [requirements.txt](http://_vscodecontentref_/0)
 add credentials in .env
 python data.py
 python main.py
+
 
 
 

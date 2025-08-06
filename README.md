@@ -15,7 +15,7 @@
 - **Multi-Sport Support:** Specialized analysis for running, cycling, and swimming, including discipline-specific metrics and cross-training advice.
 - **Agentic Memory:** Remembers your sessions and adapts feedback over time for continuous improvement.
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Python 3.12+**
 - [Agno AI](https://github.com/agnolabs/agno) agent framework
@@ -26,7 +26,7 @@
 - [Pandas](https://pandas.pydata.org/) for data wrangling
 
 
-## 📊 Example Output
+## Example Output
 
 - **Comprehensive Run Analysis Email:**  
   - Latest performance breakdown with pace conversions  
@@ -35,14 +35,14 @@
   - Actionable, sport-specific recommendations  
   - Motivational, goal-oriented messaging
 
-## 🛠️ How It Works
+## How It Works
 
 1. **Connect your Strava account** use the credentials and fetch recent activities.
 2. **Analyze your data** using RAG tools and transformer models.
 3. **Receive detailed feedback** and improvement plans via email.
 4. **Track your progress** with agentic memory and historical trend analysis.
 
-## 📦 Installation
+## Installation
 
 ```sh
 git clone https://github.com/yourusername/smart-intelligence.git
@@ -50,4 +50,5 @@ pip install -r [requirements.txt](http://_vscodecontentref_/0)
 add credentials in .env
 python data.py
 python main.py
+
 
